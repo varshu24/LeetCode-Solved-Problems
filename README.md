@@ -7,4 +7,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0228-summary-ranges](https://github.com/varshu24/LeetCode-Solved-Problems/tree/master/0228-summary-ranges) |
+## Hash Table
+|  |
+| ------- |
+| [0013-roman-to-integer](https://github.com/varshu24/LeetCode-Solved-Problems/tree/master/0013-roman-to-integer) |
+## Math
+|  |
+| ------- |
+| [0013-roman-to-integer](https://github.com/varshu24/LeetCode-Solved-Problems/tree/master/0013-roman-to-integer) |
+## String
+|  |
+| ------- |
+| [0013-roman-to-integer](https://github.com/varshu24/LeetCode-Solved-Problems/tree/master/0013-roman-to-integer) |
 <!---LeetCode Topics End-->
