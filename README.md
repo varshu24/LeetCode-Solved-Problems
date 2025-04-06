@@ -15,8 +15,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/varshu24/LeetCode-Solved-Problems/tree/master/0013-roman-to-integer) |
+| [0069-sqrtx](https://github.com/varshu24/LeetCode-Solved-Problems/tree/master/0069-sqrtx) |
 ## String
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/varshu24/LeetCode-Solved-Problems/tree/master/0013-roman-to-integer) |
+## Binary Search
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/varshu24/LeetCode-Solved-Problems/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
